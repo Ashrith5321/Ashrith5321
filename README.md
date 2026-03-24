@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Ashrith 👋
 
-<!--
-**Ashrith5321/Ashrith5321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics Engineering** @ University of Michigan · Ann Arbor
 
-Here are some ideas to get you started:
+I build autonomous systems that perceive, reason, and act in unstructured environments — underwater, on the road, and at the microscale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in **neuro-symbolic AI**, bridging learned representations with structured reasoning for robust robot decision-making.
+
+---
+
+### 🔬 What I'm Working On
+
+- **Autonomous Shipwreck Inspection** — Full pipeline (search → detect → circumnavigate → 3D coverage) for underwater vehicles in NVIDIA Isaac Sim / OceanSim with ROS2 and SAM2  
+- **Magnetic Microrobot Swarms** — Closed-loop PID control of 3×3 microrobot arrays for biomedical applications (SAM Lab, UMich)  
+- **EvManip** — Self-supervised foundation model fusing event camera streams with RGB-D for robotic manipulation  
+- **Full-Stack Autonomous Driving** — VLA + Safety Force Field architecture in NVIDIA Isaac Sim with multi-modal sensor fusion  
+
+### 🛠 Tech Stack
+
+**Perception & Learning** · PyTorch · ROS2 · OctoMap · SLAM  
+**Simulation** · NVIDIA Isaac Sim · OceanSim · CARLA  
+**Languages** · Python · C++ · TypeScript  
+**Tools** · Linux · Git · Docker · LaTeX  
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashrith5321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrith5321&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrith5321&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔗 Links
+
+[![Website](https://img.shields.io/badge/evmanip.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://evmanip.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrith-edukulla-633b141a7/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
+
+---
+
+*Field Robotics Group (FRoG Lab) · Synergetic Adaptive Machinas Lab (SAM Lab) · University of Michigan*
